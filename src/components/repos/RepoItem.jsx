@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaEye, FaInfo, FaLink, FaStar, FaUtensils } from 'react-icons/fa';
 import PropTypes from 'prop-types';
-import { html } from 'daisyui/dist/base';
 
 function RepoItem({ repo }) {
   const {

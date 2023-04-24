@@ -23,6 +23,7 @@ function About() {
       <p className="text-lg text-gray-400">
         Layout by:
         <a className="text-white" href="https://twitter.com/hassibmoddasser">
+          {' '}
           Hassib Moddasser
         </a>
       </p>
